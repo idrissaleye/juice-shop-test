@@ -1,1 +1,1 @@
-console.log("Hello Jenkins");
+console.log("Automatic Jenkins Test");
